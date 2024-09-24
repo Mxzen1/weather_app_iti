@@ -4,4 +4,4 @@ This is a basic weather app built using Flutter that allows users to check the w
 
 ## App In Action :
 
-[UI]
+![UI](GIF/WeatherApp.gif)
