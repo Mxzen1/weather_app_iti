@@ -1,16 +1,7 @@
-# weather_app_iti
+## Weather App 🌦
+A Simple Flutter App to Check the Weather in Any City
+This is a basic weather app built using Flutter that allows users to check the weather by typing the name of a city. It uses the WeatherAPI.com service to fetch real-time weather data like current temperature, weather conditions, and displays the min/max temperatures for the day.
 
-A new Flutter project.
+## App In Action :
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[UI]
